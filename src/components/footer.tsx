@@ -19,14 +19,14 @@ const Footer = () => {
         <p className="text-xs sm:text-sm text-gray-200 mt-2 tracking-wide">
           Designed & Developed by{" "}
           <span className="font-semibold text-cyan-300 hover:text-white transition">
-            Mahnoor Jawaid
+           Mohib Ali Khan
           </span>
         </p>
 
         {/* 🌐 Social Media Links */}
         <div className="flex justify-center items-center gap-8 mt-5">
           <motion.a
-            href="https://www.linkedin.com/in/mahnoor-jawaid-85ba6a384/"
+            href="https://www.linkedin.com/in/mohib-ali-khan-64518a260/"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.2, rotate: 5 }}
